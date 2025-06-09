@@ -1,4 +1,13 @@
-# How I would scale and optimise this code to include data all the way from 2009
+# NYC Taxi Trip Analysis
+
+## Description
+
+This project is to analyse NYC taxi trips from September 2024 to December 2024. 
+I got the data from https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page using only the Yellow Taxi Trip Records.
+
+
+
+## How I would scale and optimise this code to include data all the way from 2009
 
 ### Storage
 
